@@ -1,0 +1,20 @@
+{
+  "name": "claude-code-git-amend-guard",
+  "displayName": "Git amend guard for Claude Code",
+  "version": "0.1.0",
+  "description": "Stops Claude Code from rewriting git history blind: amend, force-push, rebase or reset --hard on a commit it never looked at.",
+  "author": {
+    "name": "Wizalnut (Epic production s.r.o.)",
+    "url": "https://wizalnut.com"
+  },
+  "homepage": "https://wizalnut.com/en/packs",
+  "repository": "https://github.com/PlatonKuruc/claude-code-git-amend-guard",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-hooks",
+    "ai-agents",
+    "quality-gates",
+    "git"
+  ]
+}

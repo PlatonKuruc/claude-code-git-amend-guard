@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-git-amend-guard",
+  "description": "Git amend guard for Claude Code",
+  "owner": {
+    "name": "Wizalnut (Epic production s.r.o.)",
+    "url": "https://wizalnut.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-git-amend-guard",
+      "source": "./",
+      "description": "Stops Claude Code from rewriting git history blind: amend, force-push, rebase or reset --hard on a commit it never looked at."
+    }
+  ]
+}
